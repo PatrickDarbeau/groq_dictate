@@ -1,4 +1,4 @@
-# https://github.com/patrickdarbeau/groq_whisperer
+# https://github.com/patrickdarbeau/groq_dictate
 
 import os
 import tempfile
@@ -33,7 +33,7 @@ client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
 class GroqWhispererGUI:
     def __init__(self, root):
         self.root = root
-        self.root.title("Groq Whisperer")
+        self.root.title("Groq Dictate")
         self.root.geometry("400x700")
         self.root.configure(bg='#D2D2EB')
         
@@ -429,3 +429,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
