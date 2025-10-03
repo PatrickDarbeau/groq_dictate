@@ -235,7 +235,7 @@ Les fonctionnalités envisagées pour les prochaines versions :
 
 ## Rejoignez la révolution vocale ! 🎤
 
-Dans un monde où **le temps est la ressource la plus précieuse**, chaque minute économisée compte. Groq Whisperer n'est pas juste un outil de transcription, c'est un **catalyseur de productivité**.
+Dans un monde où **le temps est la ressource la plus précieuse**, chaque minute économisée compte. Groq Dictate n'est pas juste un outil de transcription, c'est un **catalyseur de productivité**.
 
 ### 🚀 Passez à l'action maintenant
 
@@ -278,3 +278,4 @@ Arrêtez de taper quand vous pouvez parler. Arrêtez de perdre du temps quand vo
 **Mots-clés** : transcription vocale, reconnaissance vocale, IA, productivité, Groq, Whisper, speech-to-text, français
 
 **Partager cet article** : [Twitter] [LinkedIn] [Facebook] [Reddit]
+
