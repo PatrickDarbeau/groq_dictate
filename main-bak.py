@@ -1,4 +1,4 @@
-# https://github.com/patrickdarbeau/groq_whisperer
+# https://github.com/patrickdarbeau/groq_dictate
 
 import os
 import tempfile
@@ -260,4 +260,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
