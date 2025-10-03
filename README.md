@@ -72,7 +72,7 @@ Un outil Python révolutionnaire pour enregistrer de l'audio depuis le microphon
 1. **Cloner le dépôt**
   
   ```bash
-  git clone https://github.com/KennyVaneetvelde/groq_whisperer
+  git clone https://github.com/patrickdarbeau/groq_dictate
   cd groq_whisperer
   ```
   
@@ -164,7 +164,7 @@ TEXT_SAVE_DIR = "transcriptions"  # Dossier de sauvegarde des textes
 ## 📁 Structure du projet
 
 ```
-groq_whisperer/
+groq_dictate/
 ├── main.py              # Script principal avec interface graphique
 ├── requirements.txt     # Dépendances Python
 ├── .env.example        # Exemple de configuration
