@@ -171,7 +171,7 @@ groq_whisperer/
 ├── .env                # Configuration API (à créer)
 ├── audio/              # Dossier de sauvegarde audio
 ├── transcriptions/     # Dossier de sauvegarde des textes
-├── LICENSE            # Licence MIT
+├── LICENSE            # Licence EULA
 └── README.md          # Documentation complète
 ```
 
