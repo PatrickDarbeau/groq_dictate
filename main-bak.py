@@ -206,7 +206,7 @@ def copier_fichier(source, destination_dir):
 
 def signal_handler(sig, frame):
     """Gestionnaire pour l'interruption Ctrl+C"""
-    print("\n\n👋 Arrêt de Groq Whisperer...")
+    print("\n\n👋 Arrêt de Groq Dictate...")
     sys.exit(0)
 
 def main():
@@ -261,6 +261,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
