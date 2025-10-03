@@ -1,4 +1,4 @@
-# https://github.com/KennyVaneetvelde/groq_whisperer
+# https://github.com/patrickdarbeau/groq_whisperer
 
 import os
 import tempfile
@@ -260,3 +260,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
